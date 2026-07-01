@@ -4,7 +4,7 @@ export const pages = {
 	},
 	projects: {
 		sub: {
-			test: {
+			sound_propagation: {
 				title: 'Sound Propagation',
 				filename: './projects/wave-sim.md',
 			},
